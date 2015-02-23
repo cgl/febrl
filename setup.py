@@ -8,5 +8,5 @@ setup(name='Febrl',
       author='Peter Christen, 14 December 2011',
       author_email='',
       url='http://sourceforge.net/projects/febrl/',
-      packages=['febrl', ],
+      #packages=['febrl', ],
      )
